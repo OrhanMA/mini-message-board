@@ -1,0 +1,47 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: red;
+}
+
+ul {
+  border: 1px solid #ccc;
+}
+
+li {
+  list-style: none;
+  border-bottom: 1px solid #ccc;
+}
+
+form {
+  border: 1px solid #ccc;
+  padding: 50px 20px 50px 20px;
+  font-size: 14px;
+  margin-top: 50px;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+label {
+  display: block;
+  margin: 10px;
+  font-size: 18px;
+}
+button {
+  background-color: #00b7ff;
+  color: white;
+  border: 1px solid #00b7ff;
+  padding: 10px 20px 10px 20px;
+  font-size: 14px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
